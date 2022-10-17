@@ -1,0 +1,2 @@
+# kaupunginosat
+Kangasalan kaupunginosapalvelun tiedostot
